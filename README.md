@@ -1,5 +1,5 @@
-This project resulted in a peer-reviewed manuscript, published in the Journal of Long Term Care. 
+This project resulted in a peer-reviewed manuscript, published in Inquiries. 
 
-Waiving Medicaid Regulations During a Public Health Crisis: Identifying Heterogeneous Effects of Suspending Pre-Admission Screening Requirements on COVID-19 Deaths
-Jason Semprini and Brian Kaskie
-https://journal.ilpnetwork.org/articles/10.31389/jltc.90
+SEMPRINI, J. 2022. Federalism and the Value of Institutional Experience During a National Disaster: Identifying Determinants of Rapid Emergency Medicaid Waiver Adoption During the Covid-19 Pandemic. Inquiries Journal [Online], 14. Available: http://www.inquiriesjournal.com/a?id=1931
+
+
